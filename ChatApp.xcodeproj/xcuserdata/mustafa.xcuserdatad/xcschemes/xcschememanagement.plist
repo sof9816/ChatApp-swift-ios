@@ -7,7 +7,25 @@
 		<key>ChatApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>45BD76F220A40960007CE90B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>45BD770620A40960007CE90B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>45BD771120A40960007CE90B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
