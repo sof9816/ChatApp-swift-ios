@@ -13,10 +13,10 @@
 <h2>Images :</h2>
 <ol>
   <li><img src="images/1.jpg" width="20%"></li>
-  <li><img src="images/2.jpg"></li>
-  <li><img src="images/3.jpg"></li>
-  <li><img src="images/4.jpg"></li>
-  <li><img src="images/5.jpg"></li>
+  <li><img src="images/2.jpg" width="20%"></li>
+  <li><img src="images/3.jpg" width="20%"></li>
+  <li><img src="images/4.jpg" width="20%"></li>
+  <li><img src="images/5.jpg" width="20%"></li>
 </ol>
 <br>
 <hr>
