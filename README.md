@@ -12,11 +12,11 @@
 <hr>
 <h2>Images :</h2>
 <ol>
-  <li><img src="1.jpg"></li>
-  <li><img src="2.jpg"></li>
-  <li><img src="3.jpg"></li>
-  <li><img src="4.jpg"></li>
-  <li><img src="5.jpg"></li>
+  <li><img src="images/1.jpg"></li>
+  <li><img src="images/2.jpg"></li>
+  <li><img src="images/3.jpg"></li>
+  <li><img src="images/4.jpg"></li>
+  <li><img src="images/5.jpg"></li>
 </ol>
 <br>
 <hr>
